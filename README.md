@@ -1,4 +1,4 @@
-##Cadastro de Clientes
+## Cadastro de Clientes
 
 Este projeto consiste em um sistema simples de cadastro de clientes desenvolvido em Java, utilizando Swing para a interface gráfica e implementando um padrão DAO (Data Access Object) para gerenciamento dos dados dos clientes.
 
